@@ -18,7 +18,7 @@ export default function HeroPost({
           title={title}
           src={coverImage}
           slug={slug}
-          height={620}
+          height={320}
           width={1240}
         />
       </div>
